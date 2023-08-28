@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "routes": [
+      {
+        "src": "/(menu|page)\\.jsx",
+        "dest": "/src/app/pages/$1.jsx"
+      }
+    ]
+  }
+  
